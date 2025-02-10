@@ -1,4 +1,4 @@
-# # Fraud Detection Analysis
+# Fraud Detection Analysis
 
 ## Overview
 This project focuses on analyzing a credit card transaction dataset for fraud detection. The dataset is loaded from a CSV file (`creditcard.csv`), and various exploratory data analysis (EDA) techniques are applied to understand feature distributions and relationships.
